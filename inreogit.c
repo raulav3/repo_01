@@ -10,7 +10,7 @@ int main() {
     printf("Introduce el mes: ");
     scanf_s("%d", &mes);
 
-    printf("Introduce el año (4 digitos): ");
+    printf("Introduce el año: ");
     scanf_s("%d", &year);
 
     suma = dia + mes + year;
